@@ -1,0 +1,92 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Complete Web Development Bootcamp",
+      "instructor": "Md. Mortuza Hossain",
+      "duration": "20 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn full-stack web development from scratch.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&auto=format&fit=crop&q=60",
+      "category": "Development"
+    },
+    {
+      "id": "2",
+      "title": "Advanced React and Next.js Masterclass",
+      "instructor": "Jhankar Mahbub",
+      "duration": "14 hours",
+      "rating": 4.9,
+      "level": "Advanced",
+      "description": "Master server-side rendering, state management, and production-ready architecture.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&auto=format&fit=crop&q=60",
+      "category": "Development"
+    },
+    {
+      "id": "3",
+      "title": "Python for Data Science & Machine Learning",
+      "instructor": "Md. Mosabbir Hossain",
+      "duration": "28 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Clean data, build predictive models, and dive deep into neural networks.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=60",
+      "category": "Data Science"
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Design Fundamentals",
+      "instructor": "Mostafizur Rahman",
+      "duration": "10 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Understand user research, wireframing, and creating high-fidelity prototypes in Figma.",
+      "image": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=600&auto=format&fit=crop&q=60",
+      "category": "Design"
+    },
+    {
+      "id": "5",
+      "title": "Digital Marketing Strategy & SEO",
+      "instructor": "Rakib Hassan",
+      "duration": "12 hours",
+      "rating": 4.5,
+      "level": "Intermediate",
+      "description": "Drive organic traffic, manage ad spend, and convert leads into customers.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&auto=format&fit=crop&q=60",
+      "category": "Marketing"
+    },
+    {
+      "id": "6",
+      "title": "Introduction to Cyber Security",
+      "instructor": "Rahman Saqib",
+      "duration": "16 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn the basics of network security, cryptography, and defense mechanisms.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&auto=format&fit=crop&q=60",
+      "category": "IT & Software"
+    },
+    {
+      "id": "7",
+      "title": "Product Management: From Idea to Launch",
+      "instructor": "Farzana Sultana",
+      "duration": "8 hours",
+      "rating": 4.4,
+      "level": "Intermediate",
+      "description": "Define product vision, write PRDs, and manage cross-functional agile teams.",
+      "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=600&auto=format&fit=crop&q=60",
+      "category": "Business"
+    },
+    {
+      "id": "8",
+      "title": "Cloud Architecture with AWS",
+      "instructor": "Jon K",
+      "duration": "22 hours",
+      "rating": 4.9,
+      "level": "Advanced",
+      "description": "Design highly scalable, fault-tolerant, and cost-effective cloud infrastructures.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=60",
+      "category": "IT & Software"
+    }
+  ]
+}
