@@ -88,5 +88,31 @@
       "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=60",
       "category": "IT & Software"
     }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "name": "Jhankar Mahbub",
+      "designation": "Senior Web Developer & Author",
+      "total_courses": 12,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "2",
+      "name": "Md. Mortuza Hossain",
+      "designation": "Full Stack Engineer",
+      "total_courses": 8,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "3",
+      "name": "Jon K",
+      "designation": "Cloud Solutions Architect",
+      "total_courses": 6,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=60"
+    }
   ]
 }
