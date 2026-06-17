@@ -27,7 +27,7 @@
       "title": "Python for Data Science & Machine Learning",
       "instructor": "Md. Mosabbir Hossain",
       "duration": "28 hours",
-      "rating": 4.7,
+      "rating": 4.8,
       "level": "Intermediate",
       "description": "Clean data, build predictive models, and dive deep into neural networks.",
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=60",
@@ -60,7 +60,7 @@
       "title": "Introduction to Cyber Security",
       "instructor": "Rahman Saqib",
       "duration": "16 hours",
-      "rating": 4.8,
+      "rating": 4.7,
       "level": "Beginner",
       "description": "Learn the basics of network security, cryptography, and defense mechanisms.",
       "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&auto=format&fit=crop&q=60",
@@ -82,7 +82,7 @@
       "title": "Cloud Architecture with AWS",
       "instructor": "Jon K",
       "duration": "22 hours",
-      "rating": 4.9,
+      "rating": 4.7,
       "level": "Advanced",
       "description": "Design highly scalable, fault-tolerant, and cost-effective cloud infrastructures.",
       "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=60",
@@ -108,10 +108,10 @@
     },
     {
       "id": "3",
-      "name": "Jon K",
-      "designation": "Cloud Solutions Architect",
+      "name": "Md. Mosabbir Hossain",
+      "designation": "Machine Learning",
       "total_courses": 6,
-      "rating": 4.9,
+      "rating": 4.8,
       "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=60"
     }
   ]
