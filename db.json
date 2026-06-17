@@ -104,7 +104,7 @@
       "designation": "Full Stack Engineer",
       "total_courses": 8,
       "rating": 4.8,
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=60"
+      "image": "https://images.unsplash.com/photo-1588178454780-441fa5b99fa5?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "3",
@@ -112,7 +112,7 @@
       "designation": "Machine Learning",
       "total_courses": 6,
       "rating": 4.8,
-      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=60"
+      "image": "https://images.unsplash.com/photo-1764103945182-7d324a311115?q=80&w=567&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
